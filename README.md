@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Fix npm start error
+export NODE_OPTIONS=--openssl-legacy-provider
+
 # System Requirements for Course
 Before running the project, please make sure you have the following:
 
